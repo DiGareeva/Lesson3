@@ -8,3 +8,4 @@ Command **git remote add orogin _linkInGitHub_** connects new local repository w
 
 To send changes at first time in local reporitory to the remote one use command **git push -u origin main**. After that just use command **git push**. 
 
+To download data from remote repository and merge it with local one use command **git pull**. 
